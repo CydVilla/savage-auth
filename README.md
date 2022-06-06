@@ -1,13 +1,24 @@
-## Installation
+## Savage Auth
 
-1. Clone repo
-2. run `npm install`
+## How It's Made:
 
-## Usage
+**Tech used:** HTML, CSS, JavaScript, MongoDB, Express
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+It's the EJS and Express made full stack project you know and love! CRUD at it's finest. Complete with like and dislike functionality. Users must signup to access site.
 
-## Credit
+<!-- ## Optimizations
+*(optional)*
 
-Modified from Scotch.io's auth tutorial
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews! -->
+
+<!-- ## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Palettable:** https://github.com/alecortega/palettable
+
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
+
+**Patch Panel:** https://github.com/alecortega/patch-panel
+
+
+ -->
